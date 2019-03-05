@@ -26,7 +26,7 @@
 
 # 简历
 
-![figure_me](./figure_me.jpg){:height="60%" width="60%"}
+![figure_me](./figure_me.jpg)
 
 ---
 
